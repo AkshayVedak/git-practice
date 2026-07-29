@@ -1,0 +1,1 @@
+a commit is a saved snapshot, a branch is a separate timeline.
